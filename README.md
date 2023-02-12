@@ -1,3 +1,3 @@
 # Assignment
-Nguyễn Xuân Khoa\n
+Nguyễn Xuân Khoa  
 Mã SV: PH27009
